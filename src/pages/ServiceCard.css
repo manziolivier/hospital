@@ -1,0 +1,15 @@
+/* ServiceCard.css */
+.service-card {
+    background-color: white;
+    border: 1px solid #3498db;
+    padding: 15px;
+    margin-bottom: 20px;
+    width: 30%;
+  }
+  
+  .service-card h3 {
+    color: #3498db;
+  }
+  
+  /* Add more styles as needed */
+  

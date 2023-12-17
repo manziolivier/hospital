@@ -1,0 +1,31 @@
+.multi-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px; /* Adjust the top margin as needed */
+  background-image: url('./login2.jpg'); /* Add the background image */
+  background-size: cover; /* Ensure the image covers the entire container */
+  background-position: center; /* Center the background image */
+}
+
+.tab-buttons {
+  display: flex;
+  margin-bottom: 20px; /* Adjust the bottom margin as needed */
+}
+
+.tab-buttons button {
+  margin: 0 10px;
+  padding: 10px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  background-color: #fff;
+}
+
+.tab-buttons button.active {
+  background-color: #3498db;
+  color: #fff;
+}
+
+.form-container {
+  width: 300px; /* Adjust the width as needed */
+}
